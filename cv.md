@@ -34,6 +34,8 @@ I worked as a doctor for more than 10 years but at some point of my life I reali
 
 - Figma
 
+- JAVA Beginner
+
 ---
 
 #### Code example:
